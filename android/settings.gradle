@@ -1,0 +1,3 @@
+rootProject.name = 'OpenWeb'
+
+include ':app'
